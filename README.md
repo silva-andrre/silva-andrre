@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning about Cybersec
 - 🌱 I’m currently learning pentest and python.
 - 💞️ I’m looking to collaborate on share my knowledge o/
-- 📫 How to reach me: twitter.com/__s1lv4__
 
 
 <!---
