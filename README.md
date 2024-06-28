@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @silva-andrre
 - 👀 I’m interested in learning about Cybersec
-- 🌱 I’m currently learning pentest and python.
-- 💞️ I’m looking to collaborate on share my knowledge o/
+- 🌱 Lifelong learning.
+
 
 
 <!---
